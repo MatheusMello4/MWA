@@ -27,10 +27,11 @@ The most wanted App is a tool designed to help track down criminals and recover 
 
 **Required Must-have Stories**
 
-* User can see top 10 most-wanted lists for different crimes.
-* User can choose specific categories of most-wanted criminals.
-* User can see individuals detailed information by clicking in the Poster button.
-* User can access FBI's website through the app
+* [X] User can see top 10 most-wanted lists for different crimes.
+* [X] User can choose specific categories of most-wanted criminals.
+* [X] User can see individuals detailed information by clicking in the Poster button.
+* [X] User can see FBI's video about an criminal
+* [X] User can access FBI's website through the app
 
 ### 2. Screen Archetypes
 
@@ -56,7 +57,7 @@ The most wanted App is a tool designed to help track down criminals and recover 
    * Categories => Detail
 
 ## Wireframes
-<img src="WireframeMWA.jpg" width=600>
+<img src="Wireframe.jpg" width=600>
 
 ## Video Walkthrough
 
