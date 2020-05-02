@@ -63,7 +63,7 @@ The most wanted App is a tool designed to help track down criminals and recover 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='narratedWalktrough.mp4' width='' alt='Video Walkthrough' />
+<img src='walkthroughMWA.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
